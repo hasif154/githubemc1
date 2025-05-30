@@ -1,1 +1,1 @@
-git
+The text file is tested
